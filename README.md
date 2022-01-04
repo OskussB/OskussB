@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <img align="center" width="200" src="https://github.com/OskussB/OskussB/blob/main/perfil.png" />
    <h3 align="center">¡Hi 👋! I'm Bruno 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Junior Full Stack</strong> developer<br />¡Check my content 👇!</p>
